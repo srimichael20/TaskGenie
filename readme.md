@@ -137,8 +137,9 @@ This ensures real-time content organization and automated tracking.
 
 ## 📸 Workflow Screenshot
 
-A screenshot of the complete n8n workflow is provided in the submission folder:
-workflow_screenshot.png
+A screenshot of the complete n8n workflow is provided:
+
+<img src="workflow_screenshot.png" />
 (The screenshot shows all nodes including Trigger, Google Sheets, Tavily Research, Gemini Content Generation, and Update Node.)
 
 ---
