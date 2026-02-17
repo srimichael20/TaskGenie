@@ -12,6 +12,16 @@ The objective of this project is to design and implement a no-code AI-powered co
 
 ---
 
+## Setup
+
+* Open n8n via localhost or cloud
+* Upload the .json file
+* Add necessary api keys
+* Add necessary Credentials
+* Setup Completed
+
+---
+
 ## 🛠️ Implementation Environment
 
 * Workflow Automation Tool: n8n (Self-hosted on Localhost)
